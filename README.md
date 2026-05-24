@@ -9,15 +9,6 @@ A lightweight, interactive Streamlit web application designed to help students b
 * **Weekly Goals:** A dedicated space to set, visualize, and save both academic and personal objectives for the week.
 * **Daily Reflection:** An end-of-day productivity slider and journaling prompts to foster continuous self-improvement.
 
-## 🚀 Getting Started
-
-### Prerequisites
-Ensure you have Python installed on your system. You will also need the Streamlit library to run the application.
-
-```bash
-pip install streamlit
-```
-
 ## Live website
 [Daily_Steps](https://daily-steps-capstone-jed3ad2ib7snshsgkhgcpv.streamlit.app/)
 
