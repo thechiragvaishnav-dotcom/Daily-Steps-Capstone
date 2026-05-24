@@ -18,19 +18,8 @@ Ensure you have Python installed on your system. You will also need the Streamli
 pip install streamlit
 ```
 
-## Installation & Execution
-* **1. Clone this repository to your local machine:**
-```bash
-git clone git clone https://github.com/thechiragvaishnav-dotcom/Daily-Steps-Capstone.git
-```
-* **2. Navigate to the project directory:**
-```bash
-cd Daily-Steps-Capstone
-```
-* **3. Run the Streamlit application:**
-```bash
-streamlit run DAILY_STEPS_FOR_STUDENT_ROUTINE_AND_IMPROVE_SELF_DISCIPLINE.py
-```
+## Live website
+[Daily_Steps](https://daily-steps-capstone-jed3ad2ib7snshsgkhgcpv.streamlit.app/)
 
 ## 🛠️ Tech Stack
 * **Language: Python**
